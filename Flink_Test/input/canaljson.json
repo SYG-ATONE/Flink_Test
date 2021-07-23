@@ -1,0 +1,31 @@
+{
+    "data":[
+        {
+            "id":"338",
+            "city":"成都",
+            "province":"四川省"
+        }
+    ],
+    "database":"qfbap_ods",
+    "es":1583394964000,
+    "id":2,
+    "isDdl":false,
+    "mysqlType":{
+        "id":"int(11)",
+        "city":"varchar(256)",
+        "province":"varchar(256)"
+    },
+    "old":null,
+    "pkNames":[
+        "id"
+    ],
+    "sql":"",
+    "sqlType":{
+        "id":4,
+        "city":12,
+        "province":12
+    },
+    "table":"code_city",
+    "ts":1583394964361,
+    "type":"INSERT"
+}
